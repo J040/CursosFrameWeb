@@ -1,2 +1,2 @@
 const mongoose = require('mongoose')
-module.module.exports = name;
+module.exports = mongoose.connect('mongodb://localhost/db_finance')
