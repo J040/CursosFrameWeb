@@ -10,11 +10,12 @@
   "author": "João Victor Ribeiro",
   "license": "ISC",
   "dependencies": {
+    "admin-lte": "^3.0.0-alpha.2",
     "body-parser": "^1.18.2",
     "express": "^4.16.3",
     "express-query-int": "^3.0.0",
     "lodash": "^4.17.10",
-    "mongoose": "^5.0.16",
+    "mongoose": "^4.7.0",
     "mongoose-paginate": "^5.0.3",
     "node-restful": "^0.2.6",
     "nodemon": "^1.17.3",
